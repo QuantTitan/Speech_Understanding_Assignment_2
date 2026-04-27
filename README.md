@@ -2,7 +2,7 @@
 ## Hinglish Code-Switched Lecture Transcription & LRL Synthesis Pipeline
 
 **Student ID:** B22AI058  
-**Course:** Machine Learning (Speech Processing)  
+**Course:** Speech Understanding
 **Institution:** IIT Jodhpur  
 **Target LRL:** Santhali (ᱥᱟᱱᱛᱟᱲᱤ / Ol Chiki script)
 
