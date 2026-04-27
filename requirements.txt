@@ -1,0 +1,8 @@
+# requirements.txt
+# Part I: Robust Code-Switched STT Pipeline
+# All core ML code uses Python + PyTorch only.
+# --------------------------------------------------
+torch>=2.1.0
+torchaudio>=2.1.0
+transformers>=4.40.0
+sentencepiece>=0.1.99     # required by Whisper tokenizer
